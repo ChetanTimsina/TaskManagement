@@ -90,7 +90,7 @@ export default function Login() {
             </button>
           </form>
           <p className="mt-4 text-center text-sm text-purple-200/80">
-            Don't have an account?{" "}
+            Don&apos;t have an account?{" "}
             <Link
               href="/register"
               className="text-purple-300 hover:text-purple-100 transition-colors"
